@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritu Raj Singh.
-- 👀 I’m interested in Gaming.
+-  I’m interested in Gaming.
 - 🌱 I’m currently learning CSE w/s in Gaming Technology.
 
 <!---
