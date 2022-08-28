@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritu Raj Singh</h1>
 <h3 align="center">A rookie developer on a mission to learn & build.</h3>
 
-<p align="left"> <a href="https://twitter.com/rrsingh1101" target="blank"><img src="https://img.shields.io/twitter/follow/rrsingh1101?logo=twitter&style=for-the-badge" alt="rrsingh1101" /></a> </p>
-
-- 🌱 I’m currently learning **ReactJs, ThreeJs**
+- 🌱 I’m currently learning **XR**
 
 - 📝 I regularly write articles on [rookiedev.hashnode.dev](rookiedev.hashnode.dev)
 
@@ -11,7 +9,6 @@
 
 - 📫 How to reach me **rrsingh1101@gmail.com**
 
-- ⚡ Fun fact **I dance if I don't**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
