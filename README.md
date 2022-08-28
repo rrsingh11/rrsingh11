@@ -28,3 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rrsingh11&" alt="rrsingh11" /></p>
 
+![snake gif](https://github.com/rrsingh11/rrsingh11/blob/output/github-contribution-grid-snake.gif)
+
