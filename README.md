@@ -25,6 +25,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=rrsingh11&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rrsingh11&theme=slateorange&hide_border=false)<br/>
 
-
+<!--
 ![snake gif](https://github.com/rrsingh11/rrsingh11/blob/output/github-contribution-grid-snake.gif)
-
+-->
