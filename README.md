@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritu Raj Singh</h1>
-<h3 align="center">A rookie developer, learning to build.</h3>
+<h3 align="center">A rookie developer, learning to build and contribute.</h3>
 
 - 🌱 I’m currently learning **XR**
 
