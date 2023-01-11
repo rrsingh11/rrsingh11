@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ritu Raj Singh</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ritu Raj Singh</h1>
+</a>
 <h3 align="center">A rookie developer, learning to build and contribute.</h3>
 
 - 🌱 I’m currently learning **XR**
@@ -29,3 +30,4 @@
 -->
 
 [![@rrsingh11's Holopin board](https://holopin.io/api/user/board?user=rrsingh11)](https://holopin.io/@rrsingh11)
+ -->
